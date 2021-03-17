@@ -18,4 +18,4 @@ async def ping(ctx):
     await ctx.send(f'Ping! {round(latancy*1000)}ms')
 '''
 
-bot.run("통큰")
+bot.run("토큰")
